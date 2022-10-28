@@ -1,1 +1,3 @@
-# Predicting-the-GPA
+##Problem
+The SAT is a test widely used for college admission in USA. People think that students that achieve high score in SAT, have also the highest GPA during college. In this competition we want to predict the average GPA cumulated by a student in the college, based only on the scores that he/she achieved in SAT.
+You are given a training dataset, in which each row contain the student ID, SAT score and average GPA cumulated during college. Use this dataset for training your model and then test your model using test dataset. Each row of test dataset contain student ID and SAT score. Finally you should submit a CSV file, that contains the student ID , and predicted GPA score for each row of the test dataset.
